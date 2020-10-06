@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on a [corona dashboard](https://hperrot.ignorelist.com/) and a [softmax splatting PyTorch extension](https://github.com/hperrot/splatting)
+
 <!--
 **hperrot/hperrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
